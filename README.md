@@ -20,7 +20,7 @@ I build web interfaces, mobile apps and WordPress sites — with a focus on clea
 
 ### About
 
-- 🧑‍💻  Freelance since January 2026
+- 🧑‍💻  Freelance since July 2020
 - 🎨  Previously UX/UI Designer → Front-End Dev at Onaos
 - 📍  Montpellier, France
 - 📬  Open to projects and opportunities
